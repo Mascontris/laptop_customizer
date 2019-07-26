@@ -24,7 +24,7 @@ function TechSpecList(props) {
                 { options }
               </ul>
             </div>
-          });      
+          });       
 
 return (
         <section className="main__form">

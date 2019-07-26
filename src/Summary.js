@@ -1,6 +1,7 @@
 import React from 'react';
 
 function MainSummary(props){
+
  return (
     <section className="main__summary">
         <h3>NEW GREENLEAF 2018</h3>
